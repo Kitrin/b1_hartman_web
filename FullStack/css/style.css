@@ -1,0 +1,29 @@
+body {
+    background-image: url("../images/what-is-lamp-stack_25.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+h1{
+    font-family: 'Architects Daughter', cursive;
+    text-align: center;
+    color: green;
+} 
+
+h2, h3 {
+    
+    text-align: center;
+}
+
+.hr01 {
+    
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: ridge;
+    border-width: 3px;
+    border-color: #FF0000;
+}
